@@ -4,13 +4,16 @@
 - 📫 To reach me please email me at JacobAndrewRandall@gmail.com
 - 🔨 Repos are under contruction!
 
-## Hack The Box OSINT challenges
+## Hack The Box challenges
 ### Have a look at my open source intelligence write ups!
-
 ### Index of challenges
 1. [Easy Phish](https://github.com/JacobAndrewRandall/HTB-OSINT/tree/main/HTB-OSINT/docs/EasyPish)
 2. [Infiltration](docs/Infiltration/)
 3. [We Have A Leak](docs/WeHaveALeak/)
+
+### Website pentesting write ups
+### Index of challenges
+1. [Emdee](https://github.com/JacobAndrewRandall/Emdee-HTB)
 
 
 <!---
