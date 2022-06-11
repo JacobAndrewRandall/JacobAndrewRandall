@@ -6,8 +6,6 @@
 ### Have a look at my open source intelligence write ups!
 
 1. [Easy Phish](https://github.com/JacobAndrewRandall/HTB-OSINT/tree/main/HTB-OSINT/docs/EasyPish)
-2. [Infiltration](https://github.com/JacobAndrewRandall/JacobAndrewRandall/blob/main/docs/Infiltration)
-3. [We Have A Leak](docs/WeHaveALeak/)
 
 ### Website pentesting write ups
 
