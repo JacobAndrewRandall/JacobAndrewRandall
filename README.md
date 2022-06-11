@@ -5,8 +5,8 @@
 ## Hack The Box challenges
 ### Have a look at my open source intelligence write ups!
 
-1. [Easy Phish](https://github.com/JacobAndrewRandall/HTB-OSINT/tree/main/HTB-OSINT/docs/EasyPish)
+> [Easy Phish](https://github.com/JacobAndrewRandall/HTB-OSINT/tree/main/HTB-OSINT/docs/EasyPish)
 
 ### Website pentesting write ups
 
-1. [Emdee](https://github.com/JacobAndrewRandall/Emdee-HTB)
+> [Emdee](https://github.com/JacobAndrewRandall/Emdee-HTB)
